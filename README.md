@@ -1,9 +1,7 @@
-# NBA Team Logos Archive
+# Logo Collection
  
-The purpose of this repository is to collect the "NBA Team Logos.zip" files from the past.
-Credits to the NBA and their respective owners.
+I am performing something known as "Logo Collection", a process in which I fetch different NBA, NHL, MLB, and NFL team logos from their official sources, with their original hex colors and size.
 
-Disclaimer: These were uploaded for educational and entertainment purposes only.
+Disclaimer: These were uploaded for educational and entertainment purposes only. All rights reserved to the copyright owners.
 
-If you can find any older, unmodified .zips from the Media Central, please send it to me in some way (e.g. in the pull requests section).
-The reason why I'm doing this is because I'm a fan of logos, and want to get them in good resolutions and file formats.
+If you want to contribute, please contact me and send me your contribution so I can add it!
